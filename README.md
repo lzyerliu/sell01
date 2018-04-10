@@ -22,8 +22,10 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ### 运行界面结果
 
 #### 1、商品页
+![](https://github.com/lzyerliu/sell01/blob/master/resource/%E5%A4%96%E5%8D%9601_%E5%95%86%E5%93%81%E9%A1%B5.jpg)
+
 #### 2、商品页_公告页
-![](https://github.com/lzyerliu/sell01/blob/master/resource/%E5%A4%96%E5%8D%9601_%E5%95%86%E5%93%81%E9%A1%B5.jpg)![](https://github.com/lzyerliu/sell01/blob/master/resource/%E5%A4%96%E5%8D%9602_%E5%95%86%E5%93%81%E9%A1%B5_%E5%85%AC%E5%91%8A%E5%8F%8A%E4%BC%98%E6%83%A0%E4%BF%A1%E6%81%AF.jpg)
+![](https://github.com/lzyerliu/sell01/blob/master/resource/%E5%A4%96%E5%8D%9602_%E5%95%86%E5%93%81%E9%A1%B5_%E5%85%AC%E5%91%8A%E5%8F%8A%E4%BC%98%E6%83%A0%E4%BF%A1%E6%81%AF.jpg)
 
 #### 3、购物车详情页
 ![](https://github.com/lzyerliu/sell01/blob/master/resource/%E5%A4%96%E5%8D%9603_%E5%95%86%E5%93%81%E9%A1%B5_%E8%B4%AD%E7%89%A9%E8%BD%A6%E8%AF%A6%E6%83%85.jpg)
