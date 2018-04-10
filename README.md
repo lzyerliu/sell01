@@ -20,3 +20,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ```
 
 ### 入门级 vue
+
+### 运行界面结果、
+
+![](https://github.com/lzyerliu/sell01/blob/master/resource/%E5%A4%96%E5%8D%9601_%E5%95%86%E5%93%81%E9%A1%B5.jpg)
