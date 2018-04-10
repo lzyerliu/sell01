@@ -1,7 +1,7 @@
-# 本项目是基于vue2.X+vue-router+vue-resource+es6,模仿饿了么商家模块
+## 本项目是基于vue2.X+vue-router+vue-resource+es6,模仿饿了么商家模块
 
-## 本项目是看了原作者ustbhuangyi的[vue-sell](https://github.com/ustbhuangyi/vue-sell)的教程自己动手写了一遍
-## [课程链接](http://coding.imooc.com/class/74.html) 课程讲的挺好，从头到尾都很详细
+### 本项目是看了原作者ustbhuangyi的[vue-sell](https://github.com/ustbhuangyi/vue-sell)的教程自己动手写了一遍
+### [课程链接](http://coding.imooc.com/class/74.html) 课程讲的挺好，从头到尾都很详细
 
 ## Build Setup
 
