@@ -1,6 +1,6 @@
-# sell01
+# 本项目是基于vue2.X+vue-router+vue-resource+es6,模仿饿了么商家模块
 
-> sell app
+##本项目是看了原作者ustbhuangyi的[vue-sell](https://github.com/ustbhuangyi/vue-sell)的教程自己动手写了一遍
 
 ## Build Setup
 
